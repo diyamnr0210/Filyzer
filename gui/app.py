@@ -6,11 +6,11 @@ from core import report, scanner
 BG = "#1e1e2e" 
 PANEL = "#45475a"
 PANEL_HI = "#11111b"
-BORDER = "#7dc4e4"
+BORDER = "#ee99a0"
 TEXT = "#c6d0f5"
-MUTED = "#85c1dc"
-ACCENT = "#99d1db"  
-SELECT = "#81c8be" 
+MUTED = "#f2d5cf"
+ACCENT = "#eebebe"  
+SELECT = "#f4b8e4" 
 RISK_COLORS = {
     "LOW":    {"background": "#a6d189", "foreground": "#51576d"},
     "MEDIUM": {"background": "#ef9f76", "foreground": "#51576d"},
